@@ -1,0 +1,4 @@
+[tool.pyright]
+typeCheckingMode = "strict"
+useLibraryCodeForTypes = true
+reportImportCycles = false
